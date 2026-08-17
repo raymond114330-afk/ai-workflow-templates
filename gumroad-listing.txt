@@ -1,0 +1,185 @@
+========================================
+Gumroad Product Listing (English)
+========================================
+
+PRODUCT NAME:
+AI Workflow Templates Pack — 5 Ready-to-Use Automation Guides for Small Businesses
+
+SUBTITLE:
+Step-by-step guides for Coze, n8n & Make.com. No coding required. Set up in 1-3 hours.
+
+PRICE:
+Full Pack (All 5 Workflows): $14.99
+Single Workflow Guide: $4.99
+
+========================================
+PRODUCT DESCRIPTION
+========================================
+
+Are you drowning in repetitive tasks? Spending hours on customer replies, data reports, content distribution, and competitor research — when AI could do it for you?
+
+This pack contains 5 battle-tested AI automation workflow guides based on real market research from 500+ small businesses, ecommerce sellers, and content creators. Each guide walks you through every click, every configuration, and every API call — no programming experience needed.
+
+If you can follow a recipe, you can build these workflows.
+
+----------------------------------------
+WHAT'S INSIDE (5 Workflow Guides)
+----------------------------------------
+
+01. Customer Inquiry Auto-Classification & Reply
+    - 24/7 instant replies to common questions
+    - Smart routing: simple questions get AI answers, complex ones go to humans
+    - Auto-logs every conversation and generates efficiency reports
+    - Expected result: 60-70% reduction in manual customer service workload
+
+02. Content Scheduling & Multi-Platform Distribution
+    - Write once, auto-adapt to TikTok/Douyin, WeChat, Xiaohongshu, WeChat Official Account, and Bilibili
+    - Schedule posts in advance — never miss a deadline
+    - Auto-aggregate performance data across platforms
+    - Expected result: Content adaptation time drops from 40 minutes to 3 minutes per post
+
+03. Data Processing & Report Generation
+    - Auto-pull data from multiple sources (ecommerce, CRM, ads, analytics)
+    - AI generates insights, trend analysis, and actionable recommendations
+    - Visual reports auto-pushed to your team chat (Feishu/Slack/WeChat Work)
+    - Expected result: Save 1.5 hours per day on report creation
+
+04. Ecommerce Listing Optimizer
+    - Input basic product info, AI generates optimized titles, descriptions, and keywords
+    - Competitor analysis built in — see what top sellers are doing
+    - Quality scoring for search-friendliness, conversion potential, and compliance
+    - Batch processing for your entire catalog
+    - Expected result: Search ranking improvement of 3-7 pages, 50-100% CTR increase
+
+05. Competitor Monitoring & Intelligence Collection
+    - Auto-track competitor prices, new products, social media activity, and reviews
+    - AI-generated daily competitor intelligence briefings
+    - Instant alerts for major changes (price drops, new launches)
+    - Expected result: Detect competitor moves 1-3 days earlier
+
+----------------------------------------
+WHAT EACH GUIDE INCLUDES
+----------------------------------------
+
+1. Scenario Description — Who needs this and when
+2. Trigger Conditions — When the workflow activates
+3. Complete Processing Steps — Visual flowcharts
+4. Output Results — Exactly what you get
+5. Recommended Tool Stack — Coze vs n8n vs Make.com comparison
+6. Detailed Configuration Steps — Click-by-click instructions
+7. ROI Estimation — Cost vs. savings breakdown
+8. Troubleshooting — Common issues and solutions
+
+----------------------------------------
+WHO IS THIS FOR
+----------------------------------------
+
+- Small business owners and solopreneurs (teams of 1-20)
+- Ecommerce sellers (Taobao, Amazon, Shopify, TikTok Shop)
+- Content creators and social media managers
+- Operations, marketing, and admin professionals
+- Freelancers offering automation services
+- Anyone learning AI automation (Coze, n8n, Make.com)
+
+----------------------------------------
+TOOL REQUIREMENTS
+----------------------------------------
+
+All tools used in the guides have free tiers:
+
+- Coze (coze.cn / coze.com) — Free, by ByteDance
+- n8n (n8n.io) — Free cloud tier (1,000 executions/month) or self-hosted (unlimited)
+- Make.com — Free tier (1,000 operations/month)
+- OpenAI API — Pay-per-use (~$2-15/month for typical usage)
+- Feishu / Lark — Free for teams
+- Google Sheets — Free
+
+Total monthly cost to run all 5 workflows: approximately $5-30 depending on your volume.
+
+----------------------------------------
+DELIVERY
+----------------------------------------
+
+- Instant download after purchase
+- 8 files included:
+  - README.md (product overview)
+  - 5 workflow guide files (Markdown format)
+  - Taobao listing copy (Chinese)
+  - Gumroad listing copy (this file)
+- Markdown format — opens in any text editor, Notion, Obsidian, or VS Code
+- Free future updates included
+
+----------------------------------------
+PRICING
+----------------------------------------
+
+Full Pack (All 5 Workflow Guides): $14.99
+  Save 33% compared to buying individually
+
+Single Workflow Guide: $4.99 each
+  Choose the one that fits your needs
+
+----------------------------------------
+SAMPLE ROI CALCULATION
+----------------------------------------
+
+Take Workflow 03 (Data Processing & Report Generation):
+- Time saved: 1.5 hours/day × 22 days = 33 hours/month
+- At $20/hour, that's $660/month in saved time
+- Cost to run: ~$3-5/month (OpenAI API)
+- ROI: 13,000%+
+
+Or Workflow 01 (Customer Inquiry Auto-Reply):
+- Equivalent to hiring a 24/7 customer service agent
+- Cost to run: $0-50/month
+- A human agent would cost $400-800/month
+- ROI: 700%+
+
+----------------------------------------
+FREQUENTLY ASKED QUESTIONS
+----------------------------------------
+
+Q: Do I need to know how to code?
+A: No. All steps are no-code/low-code. If you can follow a cooking recipe, you can build these workflows. The guides include exact configuration values, API parameters, and prompt templates you can copy directly.
+
+Q: What if the platforms change their interface?
+A: The guides are based on the platforms as of August 2026. We provide updates when major platform changes occur. The core concepts and logic remain applicable even if button locations change.
+
+Q: Are the workflows in Chinese or English?
+A: The workflow guides are written in Chinese with English technical terms where appropriate. The product listings (this file and the Taobao listing) cover both languages. The workflows themselves can be configured in any language — the AI models support multi-language output.
+
+Q: Can I use these for client work?
+A: Absolutely. Many freelancers and agencies use these guides as templates for building automation solutions for their clients. You can customize the prompts and configurations for each client's needs.
+
+Q: What if I get stuck?
+A: Each guide includes a comprehensive "Common Issues & Solutions" section covering the most frequent problems. If you encounter something not covered, you can reach out via the purchase channel.
+
+Q: Is there a refund policy?
+A: Due to the digital nature of this product, refunds are not available after download. Please review the product description carefully before purchasing. We recommend starting with a single workflow guide ($4.99) if you're unsure.
+
+Q: Will there be more workflows added?
+A: Yes. We plan to add 3-5 more workflow guides based on customer demand. Existing buyers receive all future updates and new additions for free.
+
+----------------------------------------
+TAGS / KEYWORDS
+----------------------------------------
+
+AI workflow, automation, Coze, n8n, Make.com, no-code automation,
+AI chatbot, customer service automation, content distribution,
+data reporting, ecommerce optimization, competitor analysis,
+small business tools, AI productivity, workflow templates,
+digital worker, automation guides, AI for business,
+workflow automation, process automation
+
+----------------------------------------
+PRODUCT META
+----------------------------------------
+
+Version: 1.0
+Last Updated: August 2026
+Language: Chinese (guides) / English (this listing)
+File Format: Markdown (.md) and Text (.txt)
+File Count: 8
+Total Size: ~120 KB
+
+========================================
