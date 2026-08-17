@@ -59,7 +59,7 @@
 
 ---
 
-这个框架我们整理成了一个完整版（含落地前沟通清单、避坑指南、失败预案模板），放在这里：[落地页链接]
+这个框架我们整理成了一个完整版（含落地前沟通清单、避坑指南、失败预案模板），放在这里：https://raw.githubusercontent.com/raymond114330-afk/ai-workflow-templates/main/ai-automation-diagnostic-checklist.html
 
 不过核心的东西上面都写了，不需要下载也能直接用。如果你在做具体流程的时候遇到问题，欢迎在这帖下面继续讨论。
 
@@ -79,6 +79,6 @@
 3. 重点回答："中小企业如何开始AI自动化？"等高搜索量问题
 
 ## 落地页部署
-1. ai-automation-diagnostic-checklist.html 上传到可访问的web服务器
-2. 确认URL后替换"[落地页链接]"
+1. ai-automation-diagnostic-checklist.html 已在GitHub仓库：https://github.com/raymond114330-afk/ai-workflow-templates
+2. Raw URL: https://raw.githubusercontent.com/raymond114330-afk/ai-workflow-templates/main/ai-automation-diagnostic-checklist.html
 3. 落地页底部包含¥499个性化诊断报告的咨询入口
